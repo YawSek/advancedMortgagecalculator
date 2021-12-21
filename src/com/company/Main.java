@@ -9,8 +9,8 @@ public class Main {
 
         Scanner input = new Scanner(System.in);
 
-        int months = 12;
-        int percent = 100;
+        final byte months = 12;
+        final byte percent = 100;
 
         int principal = 0;
 
